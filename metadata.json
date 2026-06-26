@@ -1,0 +1,8 @@
+{
+  "name": "Sew \u0026 Post 5",
+  "description": "A voting platform for a fashion competition where watching ads boosts your vote count.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
